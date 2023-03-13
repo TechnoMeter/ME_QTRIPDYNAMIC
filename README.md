@@ -1,6 +1,6 @@
 # TechnoMeter-ME_QTRIPDYNAMIC
 
-What I learned here ?
+What have I learned here?
 
 
 --> Linking of JavaScript to HTML
