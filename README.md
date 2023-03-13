@@ -22,7 +22,7 @@ What I learned here ?
 
 ----------------------------------Frontend Link----------------------------------------------------
 
-Website URL: 
+Website URL: https://qtrip-dynamic-frend.netlify.app/
 
 
 ----------------------------------Backend Link----------------------------------------------------
